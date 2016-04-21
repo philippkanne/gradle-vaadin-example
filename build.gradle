@@ -1,0 +1,9 @@
+apply from: 'http://plugins.jasoft.fi/vaadin.plugin'
+
+repositories {
+    mavenCentral()
+}
+
+vaadin{
+    version '7.+'
+}
